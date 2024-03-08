@@ -5,7 +5,7 @@ import plotly.express as py
 import numpy as np
 
 
-vehicles = pd.read_csv("C:/Users/Furkan/Usvehicledata/vehicles_us.csv")
+vehicles = pd.read_csv("https://github.com/fbahat/Usvehicledata/blob/main/vehicles_us.csv")
 
 print(vehicles.head(10))
 
