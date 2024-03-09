@@ -3,7 +3,6 @@ import streamlit as st
 import altair as at
 import plotly.express as py
 import numpy as np
-from matplotlib import pyplot as plt
 import  requests
 
 base_url = "https://raw.githubusercontent.com/"
