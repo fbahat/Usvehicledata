@@ -4,9 +4,9 @@ import altair as at
 import plotly.express as py
 import numpy as np
 
-
-vehicles = pd.read_csv("https://github.com/fbahat/Usvehicledata/blob/main/vehicles_us.csv")
-
+base_url = "https://raw.githubusercontent.com/"
+url  = base_url + "fbahat/Usvehicledata/main/vehicles_us.csv"
+vehicles = pd.read_csv(url)
 print(vehicles.head(10))
 
 vehicles.isna()
