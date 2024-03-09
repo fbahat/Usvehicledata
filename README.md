@@ -36,3 +36,8 @@ The dataset used in this project contains information about vehicles listed for 
 ## Link to Render 
 
 https://usvehicledata.onrender.com/
+
+
+Note : Thank you for your feedback. I did not tought about creating a function. After that everything looked little less confusing. To be honest, my creation got clogged when it comes to being creative with comparision and all. I cant really think of any other comparision. I tried to create a new colum with Make only, which i wanted to seperate Make from model. I messed it up, that will be my next task!
+
+Best,
