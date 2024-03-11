@@ -3,7 +3,7 @@ import streamlit as st
 import altair as alt
 import plotly.express as py
 import numpy as np
-import  requests
+import requests
 
 base_url = "https://raw.githubusercontent.com/"
 url  = base_url + "fbahat/Usvehicledata/main/vehicles_us.csv"
